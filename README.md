@@ -1,4 +1,4 @@
-##General Training
+# General Training
 
 A way to retrain known networks with new datasets using API calls.
 
